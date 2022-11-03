@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @uncatchable456
+- 👀 I’m interested in developing my skills as an IT major
+- 🌱 I’m currently studying as a Computer Engineering Student
