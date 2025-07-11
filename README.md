@@ -9,4 +9,4 @@ Frameworks/Libraries: React, Next.js, Node.js
 Tools: Git, VS Code
 
 Working On
-- Learning New frameworks and learning deeper about performance optimization & accessibility
+- Learning new frameworks and learning deeper about performance optimization & accessibility
